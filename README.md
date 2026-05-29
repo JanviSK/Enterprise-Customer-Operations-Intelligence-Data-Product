@@ -1,3 +1,6 @@
+Project Workflow Board:
+https://github.com/users/JanviSK/projects/7
+
 # Enterprise-Customer-Operations-Intelligence-Data-Product
 An end-to-end modern analytics data product built to centralize customer support and operational data for KPI monitoring, SLA tracking, and business intelligence reporting. The platform simulates a real-world enterprise analytics architecture using Databricks Lakehouse, ETL/ELT pipelines, dimensional data modeling, dbt transformations, and Power BI dashboards.
 
